@@ -9,6 +9,7 @@
     font-family: helvetica;
 }
 header {
+    position: fixed;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -178,4 +179,5 @@ header nav ul li a {
 .footer .social a:hover {
     color: #00bcd4;
     transform: translateY(-4px);
+
 }
