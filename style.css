@@ -9,7 +9,6 @@
     font-family: helvetica;
 }
 header {
-    position: fixed;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -181,5 +180,6 @@ header nav ul li a {
     transform: translateY(-4px);
 
 }
+
 
 
